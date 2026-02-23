@@ -56,7 +56,6 @@ const NewFlight = () => {
           setTotalSeats(0);
         }
       )
-  
     }
   
     
